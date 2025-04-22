@@ -19,7 +19,7 @@
 
 ### 🧭 The Developer's Path
 
-- 🔥 [`printf`](https://github.com/alperenocak/printf) — Forged the basics in fire and ice  
+- 🔥 [`printf`](https://github.com/alperenocak/ft_printf) — Forged the basics in fire and ice  
 - 📜 [`get_next_line`](https://github.com/alperenocak/get_next_line) — Scanned ancient texts, one line at a time  
 - ⚔️ [`push_swap`](https://github.com/alperenocak/push_swap) — Algorithmic duels, fast and fierce  
 - 🏰 [`so_long`](https://github.com/alperenocak/so_long) — Built a realm in 2D, pixel by pixel
