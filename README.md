@@ -1,4 +1,4 @@
-<img align="center" src="https://media.tenor.com/8TFQ-UcPQ-4AAAAC/jon-snow-the-north.gif" />
+<img align="center" src="https://media.tenor.com/JQDFa3cG1S4AAAAC/jon-snow-game-of-thrones.gif" style="width:100%;" />
 
 <img align="center" src="https://media.tenor.com/dJtC0LPqvOwAAAAC/jon-snow.gif" style="width:100%;" />
 
