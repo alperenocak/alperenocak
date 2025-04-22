@@ -1,6 +1,6 @@
 # Hello, I'm Yusuf Alperen Ocak ⚔️ 🐺 🔥 🐉
 
-<img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="500" height="300" align="center">
 
 ## "We look at the same stars and see very different things." - Jon Snow 📚👑
 
