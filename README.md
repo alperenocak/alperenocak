@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="100%">
 
-## "Winter is coming" - Ned Stark 📚👑
+## "We look at the same stars and see very different things." - Jon Snow 📚👑
 
 I'm a student at 42 Kocaeli, diving deep into the coding world while remembering that "Winter is Coming".
 
