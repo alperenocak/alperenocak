@@ -1,19 +1,47 @@
-## Hi there 👋
+<img align="center" src="https://media.tenor.com/2roX3uxz_68AAAAC/gandalf-lord-of-the-rings.gif" alt="Gandalf" style="width:100%;" />
 
-# 💫 About Me:
-🔭 I’m a computer programmer<br>🤝 I’m a learner in 42 Türkiye<br>🌱 I’m currently learning C and C++<br>💬 I have the ability to work in English<br>
+<h1 align="center">🧙‍♂️ Welcome, traveler of GitHub! 🧝‍♂️</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aalperenocakk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufalperenocak) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ddreamer10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aalperenocakk) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alperenocak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  I’m <strong>Yusuf Alperen Ocak</strong>, a passionate developer on a quest from <strong>Gebze</strong>, trained in the lands of <strong>42 Kocaeli</strong> and <strong>Kocaeli University</strong>.<br>
+  Like a true member of the Fellowship, I venture into the realms of <code>C</code>, <code>C++</code>, <code>C#</code> and <code>MS SQL</code> — ever eager to level up.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alperenocak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧰 My Weapons of Choice
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🔥 Not All Who Code Are Lost...
+
+Here are some of the quests I've completed:
+
+- 🧙 [`printf`](https://github.com/username/printf) – Mastered the dark arts of output formatting  
+- 🧙 [`get_next_line`](https://github.com/username/get_next_line) – Reading scrolls line by line  
+- 🗡️ [`push_swap`](https://github.com/username/push_swap) – Battled the chaos with sorting algorithms  
+- 🏹 [`so_long`](https://github.com/username/so_long) – Created a 2D pixel quest with magical tiles  
+
+> 🧝‍♀️ *More adventures await on my profile!*
+
+---
+
+### ✉️ Send a Raven
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusufalperenocak)
+- 📜 Email: yusufalperenocak10@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Yusuf's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/r3oLfIsHb84AAAAC/lord-of-the-rings-ring.gif" width="200" alt="The One Ring">
+</p>
