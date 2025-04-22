@@ -13,7 +13,7 @@ I'm a student at 42 Kocaeli, diving deep into the coding world while remembering
 - **MSSQL** 📜 - Data storage skills like the vast library of the Citadel
 
 ### 🐲 My Projects
-- 🔥 [`printf`](https://github.com/alperenocak/printf) — Forged the basics in fire and ice
+- 🔥 [`ft_printf`](https://github.com/alperenocak/ft_printf) — Forged the basics in fire and ice
 - 💬 [`minitalk`](https://github.com/alperenocak/minitalk) — Just like communicating with pigeons    
 - 📜 [`get_next_line`](https://github.com/alperenocak/get_next_line) — Scanned ancient texts, one line at a time  
 - ⚔️ [`push_swap`](https://github.com/alperenocak/push_swap) — Algorithmic duels, fast and fierce  
