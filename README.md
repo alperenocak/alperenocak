@@ -1,3 +1,5 @@
+<img align="center" src="https://media.tenor.com/8TFQ-UcPQ-4AAAAC/jon-snow-the-north.gif" />
+
 <img align="center" src="https://media.tenor.com/dJtC0LPqvOwAAAAC/jon-snow.gif" style="width:100%;" />
 
 <h1 align="center">⚔️ Yusuf Alperen Ocak – The Developer in the North ❄️</h1>
