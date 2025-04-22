@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" width="400" alt="Winter is Coming">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/5758468729124964078" width="400" alt="Winter is Coming">
 </p>
 
 ---
