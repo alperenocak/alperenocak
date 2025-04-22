@@ -1,64 +1,37 @@
-<h1 align="center">⚔️ Yusuf Alperen Ocak – The Developer in the North ❄️</h1>
+# Hello, I'm [Your Name] ⚔️ 🐺 🔥 🐉
 
-<p align="center">
-  <em>“I don't want it... I never have.” – Jon Snow</em>
-</p>
+<img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="100%">
 
-<p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/5758468729124964078" width="400" alt="Winter is Coming">
-</p>
+## "Knowledge is power." - Lord Baelish 📚👑
 
----
+I'm a student at 42 Kocaeli, diving deep into the coding world while remembering that "Winter is Coming".
 
-### 🌨️ Who am I?
+### 🛡️ My Skills
+- **C** ⚔️ - The old and reliable sword of Westeros
+- **C++** 🏰 - The complex architecture of Highgarden
+- **C#** 🗡️ - A sharp dagger made of Valyrian steel
+- **MSSQL** 📜 - Data storage skills like the vast library of the Citadel
 
-- 🛡️ Trained at **Kocaeli University** and **42 Kocaeli**
-- 💻 Warrior of the stack: `C`, `C++`, `C#`, `MS SQL`
-- 🐺 Focused on discipline, logic, and building strong software bastions
+### 🐲 My Projects
+- [Project Name](link) - Brief description
+- [Project Name](link) - Brief description
+- [Project Name](link) - Brief description
 
----
+### 🔮 My Learning Journey
+At 42 Kocaeli, like Jon Snow's rise among the Night's Watch, I'm progressing step by step in the world of software development. Inspired by the phrase "You know nothing, Jon Snow," I strive to learn something new every day.
 
-### 🧭 The Developer's Path
+### 🐦 Social Media
+- [LinkedIn](your-linkedin-link) 🦁
+- [Twitter](your-twitter-link) 🐦
+- [Instagram](your-instagram-link) 📱
+- [Discord](your-discord-username) 💬
 
-- 🔥 [`printf`](https://github.com/alperenocak/ft_printf) — Forged the basics in fire and ice  
-- 📜 [`get_next_line`](https://github.com/alperenocak/get_next_line) — Scanned ancient texts, one line at a time  
-- ⚔️ [`push_swap`](https://github.com/alperenocak/push_swap) — Algorithmic duels, fast and fierce  
-- 🏰 [`so_long`](https://github.com/alperenocak/so_long) — Built a realm in 2D, pixel by pixel
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)
 
-### 🐺 My Blades
-
-<p align="center">
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-</p>
+> "In the game of thrones, you win or you die." - Cersei Lannister
 
 ---
-
-### 📨 Ravens & Scrolls
-
-- 🧝 [LinkedIn](https://www.linkedin.com/in/yusufalperenocak)
-- 🕊️ Email: yusufalperenocak10@gmail.com
-
----
-
-### 📊 Battle Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperenocak&show_icons=true&theme=tokyonight" alt="Yusuf's GitHub Stats" />
-</p>
-
----
-
-### 🩸 Signature of the North
-
-<p align="center">
-  <img src="https://media.tenor.com/8TFQ-UcPQ-4AAAAC/jon-snow-the-north.gif" width="300" alt="The North Remembers">
-</p>
-
-<p align="center">
-  <strong>“The North remembers.”</strong>
-</p>
+⚡ *"Night gathers, and now my coding begins..."* ⚡
