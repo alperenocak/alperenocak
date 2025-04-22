@@ -1,15 +1,23 @@
-<img align="center" src="https://media.tenor.com/2roX3uxz_68AAAAC/gandalf-lord-of-the-rings.gif" alt="Gandalf" style="width:100%;" />
+<img align="center" src="https://media.tenor.com/Cx0lBxC9z14AAAAC/gandalf-fellowship.gif" alt="Gandalf leading the Fellowship" style="width:100%;" />
 
-<h1 align="center">🧙‍♂️ Welcome, traveler of GitHub! 🧝‍♂️</h1>
+<h1 align="center">🧙‍♂️ Yusuf Alperen Ocak: Coder of the West 🏔️</h1>
 
 <p align="center">
-  I’m <strong>Yusuf Alperen Ocak</strong>, a passionate developer on a quest from <strong>Gebze</strong>, trained in the lands of <strong>42 Kocaeli</strong> and <strong>Kocaeli University</strong>.<br>
-  Like a true member of the Fellowship, I venture into the realms of <code>C</code>, <code>C++</code>, <code>C#</code> and <code>MS SQL</code> — ever eager to level up.
+  “All we have to decide is what to do with the time that is given us.” – <em>Gandalf</em>
 </p>
 
 ---
 
-### 🧰 My Weapons of Choice
+<p align="center">
+  🛡️ Apprentice of the ancient code arts at <strong>42 Kocaeli</strong><br>
+  📜 Scholar of <strong>Kocaeli University</strong><br>
+  📍 Dwelling in the land of <strong>Gebze</strong>, wandering the realms of logic and syntax<br>
+  🧠 Forever learning, forever building...
+</p>
+
+---
+
+### ⚔️ Skills from the Scrolls
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,30 +26,38 @@
 
 ---
 
-### 🔥 Not All Who Code Are Lost...
+### 🧭 Completed Quests
 
-Here are some of the quests I've completed:
+- 🔮 [`printf`](https://github.com/alperenocak/printf) – Forged the ancient runes of formatted output  
+- 📜 [`get_next_line`](https://github.com/alperenocak/get_next_line) – Unlocked scrolls, line by line  
+- ⚔️ [`push_swap`](https://github.com/alperenocak/push_swap) – Sorted the realms with elegance and power  
+- 🏹 [`so_long`](https://github.com/alperenocak/so_long) – Crafted a pixel adventure, one step at a time  
 
-- 🧙 [`printf`](https://github.com/username/printf) – Mastered the dark arts of output formatting  
-- 🧙 [`get_next_line`](https://github.com/username/get_next_line) – Reading scrolls line by line  
-- 🗡️ [`push_swap`](https://github.com/username/push_swap) – Battled the chaos with sorting algorithms  
-- 🏹 [`so_long`](https://github.com/username/so_long) – Created a 2D pixel quest with magical tiles  
-
-> 🧝‍♀️ *More adventures await on my profile!*
+> 🏔️ *More stories lie within the mountains of my repositories...*
 
 ---
 
-### ✉️ Send a Raven
+### 📫 Speak, Friend, and Enter
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yusufalperenocak)
-- 📜 Email: yusufalperenocak10@gmail.com
+- 🧝‍♂️ [LinkedIn](https://www.linkedin.com/in/yusufalperenocak)
+- 🕊️ Email: yusufalperenocak10@gmail.com
 
 ---
+
+### 🌌 Stats of a Coder-Wanderer
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Yusuf's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alperenocak&show_icons=true&theme=gruvbox" alt="Yusuf's GitHub Stats" />
+</p>
+
+---
+
+### 🌠 Bonus: The Eye of Sauron Watches
+
+<p align="center">
+  <img src="https://media.tenor.com/wDZFy1YKgxwAAAAC/eye-of-sauron.gif" width="150" alt="Sauron's Eye">
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/r3oLfIsHb84AAAAC/lord-of-the-rings-ring.gif" width="200" alt="The One Ring">
+  <em>“There is only one Lord of the Code, and he does not share power.”</em>
 </p>
