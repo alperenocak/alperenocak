@@ -1,8 +1,8 @@
-# Hello, I'm [Your Name] ⚔️ 🐺 🔥 🐉
+# Hello, I'm Yusuf Alperen Ocak ⚔️ 🐺 🔥 🐉
 
 <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="100%">
 
-## "Knowledge is power." - Lord Baelish 📚👑
+## "Winter is coming" - Ned Stark 📚👑
 
 I'm a student at 42 Kocaeli, diving deep into the coding world while remembering that "Winter is Coming".
 
@@ -13,23 +13,17 @@ I'm a student at 42 Kocaeli, diving deep into the coding world while remembering
 - **MSSQL** 📜 - Data storage skills like the vast library of the Citadel
 
 ### 🐲 My Projects
-- [Project Name](link) - Brief description
-- [Project Name](link) - Brief description
-- [Project Name](link) - Brief description
+- 🔥 [`printf`](https://github.com/alperenocak/printf) — Forged the basics in fire and ice  
+- 📜 [`get_next_line`](https://github.com/alperenocak/get_next_line) — Scanned ancient texts, one line at a time  
+- ⚔️ [`push_swap`](https://github.com/alperenocak/push_swap) — Algorithmic duels, fast and fierce  
+- 🏰 [`so_long`](https://github.com/alperenocak/so_long) — Built a realm in 2D, pixel by pixel
 
 ### 🔮 My Learning Journey
 At 42 Kocaeli, like Jon Snow's rise among the Night's Watch, I'm progressing step by step in the world of software development. Inspired by the phrase "You know nothing, Jon Snow," I strive to learn something new every day.
 
 ### 🐦 Social Media
-- [LinkedIn](your-linkedin-link) 🦁
-- [Twitter](your-twitter-link) 🐦
-- [Instagram](your-instagram-link) 📱
-- [Discord](your-discord-username) 💬
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)
+- 🧝 [LinkedIn](https://www.linkedin.com/in/yusufalperenocak)
+- 🕊️ Email: yusufalperenocak10@gmail.com
 
 > "In the game of thrones, you win or you die." - Cersei Lannister
 
