@@ -1,23 +1,32 @@
-<img align="center" src="https://media.tenor.com/Cx0lBxC9z14AAAAC/gandalf-fellowship.gif" alt="Gandalf leading the Fellowship" style="width:100%;" />
+<img align="center" src="https://media.tenor.com/dJtC0LPqvOwAAAAC/jon-snow.gif" style="width:100%;" />
 
-<h1 align="center">🧙‍♂️ Yusuf Alperen Ocak: Coder of the West 🏔️</h1>
+<h1 align="center">⚔️ Yusuf Alperen Ocak – The Developer in the North ❄️</h1>
 
 <p align="center">
-  “All we have to decide is what to do with the time that is given us.” – <em>Gandalf</em>
+  <em>“I don't want it... I never have.” – Jon Snow</em>
 </p>
 
 ---
 
-<p align="center">
-  🛡️ Apprentice of the ancient code arts at <strong>42 Kocaeli</strong><br>
-  📜 Scholar of <strong>Kocaeli University</strong><br>
-  📍 Dwelling in the land of <strong>Gebze</strong>, wandering the realms of logic and syntax<br>
-  🧠 Forever learning, forever building...
-</p>
+### 🌨️ Who am I?
+
+- 🧊 A calm coder from the cold lands of **Gebze**
+- 🛡️ Trained at **Kocaeli University** and **42 Kocaeli**
+- 💻 Warrior of the stack: `C`, `C++`, `C#`, `MS SQL`
+- 🐺 Focused on discipline, logic, and building strong software bastions
 
 ---
 
-### ⚔️ Skills from the Scrolls
+### 🧭 The Developer's Path
+
+- 🔥 [`printf`](https://github.com/alperenocak/printf) — Forged the basics in fire and ice  
+- 📜 [`get_next_line`](https://github.com/alperenocak/get_next_line) — Scanned ancient texts, one line at a time  
+- ⚔️ [`push_swap`](https://github.com/alperenocak/push_swap) — Algorithmic duels, fast and fierce  
+- 🏰 [`so_long`](https://github.com/alperenocak/so_long) — Built a realm in 2D, pixel by pixel
+
+---
+
+### 🐺 My Blades
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,38 +35,27 @@
 
 ---
 
-### 🧭 Completed Quests
+### 📨 Ravens & Scrolls
 
-- 🔮 [`printf`](https://github.com/alperenocak/printf) – Forged the ancient runes of formatted output  
-- 📜 [`get_next_line`](https://github.com/alperenocak/get_next_line) – Unlocked scrolls, line by line  
-- ⚔️ [`push_swap`](https://github.com/alperenocak/push_swap) – Sorted the realms with elegance and power  
-- 🏹 [`so_long`](https://github.com/alperenocak/so_long) – Crafted a pixel adventure, one step at a time  
-
-> 🏔️ *More stories lie within the mountains of my repositories...*
-
----
-
-### 📫 Speak, Friend, and Enter
-
-- 🧝‍♂️ [LinkedIn](https://www.linkedin.com/in/yusufalperenocak)
+- 🧝 [LinkedIn](https://www.linkedin.com/in/yusufalperenocak)
 - 🕊️ Email: yusufalperenocak10@gmail.com
 
 ---
 
-### 🌌 Stats of a Coder-Wanderer
+### 📊 Battle Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperenocak&show_icons=true&theme=gruvbox" alt="Yusuf's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alperenocak&show_icons=true&theme=tokyonight" alt="Yusuf's GitHub Stats" />
 </p>
 
 ---
 
-### 🌠 Bonus: The Eye of Sauron Watches
+### 🩸 Signature of the North
 
 <p align="center">
-  <img src="https://media.tenor.com/wDZFy1YKgxwAAAAC/eye-of-sauron.gif" width="150" alt="Sauron's Eye">
+  <img src="https://media.tenor.com/8TFQ-UcPQ-4AAAAC/jon-snow-the-north.gif" width="300" alt="The North Remembers">
 </p>
 
 <p align="center">
-  <em>“There is only one Lord of the Code, and he does not share power.”</em>
+  <strong>“The North remembers.”</strong>
 </p>
