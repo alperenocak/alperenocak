@@ -1,7 +1,3 @@
-<img align="center" src="https://media.tenor.com/JQDFa3cG1S4AAAAC/jon-snow-game-of-thrones.gif" style="width:100%;" />
-
-<img align="center" src="https://media.tenor.com/dJtC0LPqvOwAAAAC/jon-snow.gif" style="width:100%;" />
-
 <h1 align="center">⚔️ Yusuf Alperen Ocak – The Developer in the North ❄️</h1>
 
 <p align="center">
@@ -12,7 +8,6 @@
 
 ### 🌨️ Who am I?
 
-- 🧊 A calm coder from the cold lands of **Gebze**
 - 🛡️ Trained at **Kocaeli University** and **42 Kocaeli**
 - 💻 Warrior of the stack: `C`, `C++`, `C#`, `MS SQL`
 - 🐺 Focused on discipline, logic, and building strong software bastions
