@@ -1,6 +1,6 @@
 ## Yusuf Alperen Ocak
 
-### Software Developer | Systems Programming & Shell | 42 Kocaeli
+### Software Developer | 42 Kocaeli
 
 I am a software development student at **42 Kocaeli**, focusing on **systems programming**, **Linux environments**, and **shell development**.  
 My goal is to design efficient, reliable, and maintainable software while understanding systems at a deeper level.
