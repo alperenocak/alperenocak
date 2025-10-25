@@ -60,5 +60,12 @@ Implemented command parsing, redirection, pipelines, environment variable expans
 - **GitHub:** [github.com/alperenocak](https://github.com/alperenocak)
 
 ---
+---
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80" alt="Tux the Penguin"/>
+  <br/>
+  <sub><i>Powered by Linux 🐧</i></sub>
+</p>
 
 > *“Understanding systems is the first step toward mastering code.”*
