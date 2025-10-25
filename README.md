@@ -18,14 +18,6 @@ My goal is to design efficient, reliable, and maintainable software while unders
 
 ### 🚀 Featured Projects
 
-#### 🧩 [ft_printf](https://github.com/alperenocak/ft_printf)
-A complete reimplementation of the standard `printf` function — mastering **formatted output**, **variadic arguments**, and **string manipulation** in C.  
-> Focus: low-level formatting, modular architecture, and precision handling.
-
-#### 📜 [get_next_line](https://github.com/alperenocak/get_next_line)
-A **memory-safe file reader** capable of handling dynamic input streams from file descriptors.  
-> Focus: dynamic memory management and buffer optimization.
-
 #### ⚙️ [push_swap](https://github.com/alperenocak/push_swap)
 Algorithmic sorting challenge — designed and implemented **optimal stack operations** to sort data with minimal moves.  
 > Focus: algorithm design, complexity optimization, and performance tuning.
