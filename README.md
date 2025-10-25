@@ -62,10 +62,16 @@ Implemented command parsing, redirection, pipelines, environment variable expans
 ---
 ---
 
+---
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80" alt="Tux the Penguin"/>
-  <br/>
-  <sub><i>Powered by Linux 🐧</i></sub>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0180.gif" width="80%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alperenocak&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
 </p>
 
 > *“Understanding systems is the first step toward mastering code.”*
