@@ -10,7 +10,7 @@ My work centers on building efficient, low-level programs and understanding how 
 ### 🧠 Skills
 
 - **Languages:** C, C++, C#  
-- **Systems & Tools:** Linux, Bash, Git, Makefile, Valgrind, GDB  
+- **Systems & Tools:** Linux, Bash, Git
 - **Databases:** MSSQL  
 - **Concepts:** Algorithms, Data Structures, Process Management, Memory Handling, Object-Oriented Programming  
 
