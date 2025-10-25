@@ -31,9 +31,17 @@ A 2D game built with **MiniLibX** — implemented rendering logic, event handlin
 > Focus: low-level graphics, event loops, and modular design.
 
 #### 💻 [minishell](https://github.com/alperenocak/minishell)
-A functional **shell interpreter** that replicates essential bash behavior.  
-Implemented parsing, redirection, pipes, and environment variable handling from scratch.  
-> Focus: process control, file descriptors, and system calls.
+A fully functional **Unix shell clone**, designed to replicate essential bash features and internal mechanisms.  
+Implemented command parsing, redirection, pipelines, environment variable expansion, and signal handling entirely from scratch. 
+> **Focus:**  
+> - Process creation and management using `fork`, `execve`, and `wait`  
+> - File descriptor manipulation for input/output redirections  
+> - Implementation of pipes and inter-process communication  
+> - Signal handling for interactive user control (Ctrl+C, Ctrl+D, Ctrl+\)  
+> - Environment variable management and dynamic memory allocation  
+> - Error handling and resource cleanup to ensure stability  
+> - Modular architecture separating parsing, execution, and built-ins  
+> - Deep understanding of shell behavior, prompt management, and process groups
 
 ---
 
