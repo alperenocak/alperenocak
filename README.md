@@ -1,32 +1,49 @@
-# Hello, I'm Yusuf Alperen Ocak ⚔️ 🐺 🔥 🐉
+## Yusuf Alperen Ocak
 
-<img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="500" height="300" align="center">
+### Software Developer | Systems Programming & Shell | 42 Kocaeli
 
-## "We look at the same stars and see very different things." - Jon Snow 📚👑
-
-I'm a student at 42 Kocaeli, diving deep into the coding world while remembering that "Winter is Coming".
-
-### 🛡️ My Skills
-- **C** ⚔️ - The old and reliable sword of Westeros
-- **C++** 🏰 - The complex architecture of Highgarden
-- **C#** 🗡️ - A sharp dagger made of Valyrian steel
-- **MSSQL** 📜 - Data storage skills like the vast library of the Citadel
-
-### 🐲 My Projects
-- 🔥 [`ft_printf`](https://github.com/alperenocak/ft_printf) — Forged the basics in fire and ice
-- 💬 [`minitalk`](https://github.com/alperenocak/minitalk) — Just like communicating with pigeons    
-- 📜 [`get_next_line`](https://github.com/alperenocak/get_next_line) — Scanned ancient texts, one line at a time  
-- ⚔️ [`push_swap`](https://github.com/alperenocak/push_swap) — Algorithmic duels, fast and fierce  
-- 🏰 [`so_long`](https://github.com/alperenocak/so_long) — Built a realm in 2D, pixel by pixel
-
-### 🔮 My Learning Journey
-At 42 Kocaeli, like Jon Snow's rise among the Night's Watch, I'm progressing step by step in the world of software development. Inspired by the phrase "You know nothing, Jon Snow," I strive to learn something new every day.
-
-### 🐦 Social Media
-- 🧝 [LinkedIn](https://www.linkedin.com/in/yusufalperenocak)
-- 🕊️ Email: yusufalperenocak10@gmail.com
-
-> "In the game of thrones, you win or you die." - Cersei Lannister
+I am a software development student at **42 Kocaeli**, focusing on **systems programming**, **Linux environments**, and **shell development**.  
+My work centers on building efficient, low-level programs and understanding how software interacts with the operating system.
 
 ---
-⚡ *"Night gathers, and now my coding begins..."* ⚡
+
+### 🧠 Skills
+
+- **Languages:** C, C++, C#  
+- **Systems & Tools:** Linux, Bash, Git, Makefile, Valgrind, GDB  
+- **Databases:** MSSQL  
+- **Concepts:** Algorithms, Data Structures, Process Management, Memory Handling, Object-Oriented Programming  
+
+---
+
+### 💼 Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [**ft_printf**](https://github.com/alperenocak/ft_printf) | Custom implementation of `printf`, replicating standard I/O formatting behavior | C |
+| [**get_next_line**](https://github.com/alperenocak/get_next_line) | Dynamic and memory-safe line reader for file descriptors | C |
+| [**push_swap**](https://github.com/alperenocak/push_swap) | Optimized stack-based sorting algorithm with minimal operations | C |
+| [**minitalk**](https://github.com/alperenocak/minitalk) | Inter-process communication via UNIX signals | C |
+| [**so_long**](https://github.com/alperenocak/so_long) | 2D game built with MiniLibX graphics library | C |
+| [**minishell**](https://github.com/alperenocak/minishell) | A custom shell implementation simulating basic bash behavior | C, Bash |
+
+---
+
+### ⚙️ Current Focus
+
+- Deepening knowledge of **Linux internals** and **process control**  
+- Improving **shell scripting** and **automation** techniques  
+- Mastering **memory management** and **system-level debugging**  
+- Exploring **software architecture** and **code optimization**
+
+---
+
+### 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/yusufalperenocak](https://www.linkedin.com/in/yusufalperenocak)  
+- **Email:** yusufalperenocak10@gmail.com  
+- **GitHub:** [github.com/alperenocak](https://github.com/alperenocak)
+
+---
+
+> *“Understanding systems is the first step toward mastering code.”*
