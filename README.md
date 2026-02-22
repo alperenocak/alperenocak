@@ -75,16 +75,6 @@ Built a real-time 3D renderer using raycasting in pure C with MiniLibX. Handles 
 <tr>
 <td width="50%" valign="top">
 
-### 🕊️ [minitalk](https://github.com/alperenocak/minitalk)
-> Client-server communication via UNIX signals.
-
-Transmits arbitrary strings bit-by-bit using only `SIGUSR1` and `SIGUSR2`. Clean, minimal IPC with no sockets or pipes.
-
-**Key topics:** signals · bitwise ops · IPC · async handling
-
-</td>
-<td width="50%" valign="top">
-
 ### ⚙️ [push_swap](https://github.com/alperenocak/push_swap)
 > Algorithmic sorting with a minimal instruction set.
 
