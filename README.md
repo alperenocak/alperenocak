@@ -151,11 +151,11 @@ Currently working on expanding my portfolio with more systems-level projects.
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/alperenocak/alperenocak/output/github-snake-dark.svg)
+[![Alperen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alperenocak&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
