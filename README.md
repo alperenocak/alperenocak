@@ -1,77 +1,116 @@
-## Yusuf Alperen Ocak
+<div align="center">
 
-### Software Developer | 42 Kocaeli
+```
+██╗   ██╗██╗   ██╗███████╗██╗   ██╗███████╗
+╚██╗ ██╔╝██║   ██║██╔════╝██║   ██║██╔════╝
+ ╚████╔╝ ██║   ██║███████╗██║   ██║█████╗  
+  ╚██╔╝  ██║   ██║╚════██║██║   ██║██╔══╝  
+   ██║   ╚██████╔╝███████║╚██████╔╝██║     
+   ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     
+```
 
-I am a software development student at **42 Kocaeli**, focusing on **systems programming**, **Linux environments**, and **shell development**.  
-My goal is to design efficient, reliable, and maintainable software while understanding systems at a deeper level.
+### Yusuf Alperen Ocak
+**Systems & Low-Level Software Developer**
+42 Kocaeli
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufalperenocak)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alperenocak)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yusufalperenocak10@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=alperenocak&label=views&color=0e75b6&style=flat)](https://github.com/alperenocak)
 
-### 🧠 Skills
-
-- **Languages:** C, C++  
-- **Systems & Tools:** Linux, Bash, Git
-- **Databases:** MSSQL  
-- **Concepts:** Algorithms, Data Structures, Process Management, Memory Handling, Object-Oriented Programming  
-
----
-
-### 🚀 Featured Projects
-
-#### ⚙️ [push_swap](https://github.com/alperenocak/push_swap)
-Algorithmic sorting challenge — designed and implemented **optimal stack operations** to sort data with minimal moves.  
-> Focus: algorithm design, complexity optimization, and performance tuning.
-
-#### 🕊️ [minitalk](https://github.com/alperenocak/minitalk)
-A **client-server communication** program using UNIX signals for data transmission.  
-> Focus: signal handling, bitwise operations, and inter-process communication.
-
-#### 🧱 [so_long](https://github.com/alperenocak/so_long)
-A 2D game built with **MiniLibX** — implemented rendering logic, event handling, and map parsing.  
-> Focus: low-level graphics, event loops, and modular design.
-
-#### 💻 [minishell](https://github.com/alperenocak/minishell)
-A fully functional **Unix shell clone**, designed to replicate essential bash features and internal mechanisms.  
-Implemented command parsing, redirection, pipelines, environment variable expansion, and signal handling entirely from scratch. 
-> **Focus:**  
-> - Process creation and management using `fork`, `execve`, and `wait`  
-> - File descriptor manipulation for input/output redirections  
-> - Implementation of pipes and inter-process communication  
-> - Signal handling for interactive user control (Ctrl+C, Ctrl+D, Ctrl+\)  
-> - Environment variable management and dynamic memory allocation  
-> - Error handling and resource cleanup to ensure stability  
-> - Modular architecture separating parsing, execution, and built-ins  
-> - Deep understanding of shell behavior, prompt management, and process groups
+</div>
 
 ---
 
-### ⚙️ Current Focus
+## About
 
-- Deepening knowledge of **Linux internals** and **process management**  
-- Advancing in **shell programming** and **automation scripting**  
-- Enhancing **debugging**, **memory optimization**, and **architecture design**
+I'm a systems programming student at **42 Kocaeli**, building things close to the metal — shells, renderers, and IPC systems in C/C++. I care about understanding *why* things work, not just *how* to make them work.
 
----
-
-### 📫 Contact
-
-- **LinkedIn:** [linkedin.com/in/yusufalperenocak](https://www.linkedin.com/in/yusufalperenocak)  
-- **Email:** yusufalperenocak10@gmail.com  
-- **GitHub:** [github.com/alperenocak](https://github.com/alperenocak)
-
----
----
+```c
+while (learning) {
+    build();
+    break_it();
+    understand();
+}
+```
 
 ---
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0180.gif" width="80%" />
-</p>
+## Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alperenocak&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
-</p>
+## Projects
 
-> *“Understanding systems is the first step toward mastering code.”*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 [minishell](https://github.com/alperenocak/minishell)
+> A fully functional Unix shell clone written in C.
+
+Reimplemented core Bash behavior from scratch — parsing, piping, redirections, env variables, and signal handling. One of the most complete projects from 42 curriculum.
+
+**Key topics:** `fork` · `execve` · `pipe` · signals · lexer/parser · built-ins
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 cub3D
+> A 3D raycaster engine inspired by Wolfenstein 3D.
+
+Built a real-time 3D renderer using raycasting in pure C with MiniLibX. Handles textured walls, map parsing, and smooth player movement.
+
+**Key topics:** raycasting · DDA algorithm · MiniLibX · matrix math · game loop
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕊️ [minitalk](https://github.com/alperenocak/minitalk)
+> Client-server communication via UNIX signals.
+
+Transmits arbitrary strings bit-by-bit using only `SIGUSR1` and `SIGUSR2`. Clean, minimal IPC with no sockets or pipes.
+
+**Key topics:** signals · bitwise ops · IPC · async handling
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [push_swap](https://github.com/alperenocak/push_swap)
+> Algorithmic sorting with a minimal instruction set.
+
+Sorts a stack of integers using two stacks and a limited set of operations. Optimized to minimize move count.
+
+**Key topics:** algorithm design · complexity · greedy optimization · stacks
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alperenocak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenocak&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Understanding systems is the first step toward mastering code."*
+
+</div>
