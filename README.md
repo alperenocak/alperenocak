@@ -21,18 +21,6 @@
 [![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufalperenocak10@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=alperenocak&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/alperenocak)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alperenocak&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 👨‍💻 About
@@ -146,16 +134,6 @@ Currently working on expanding my portfolio with more systems-level projects.
 
 <!-- Productive Time -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alperenocak&theme=tokyonight&utcOffset=3)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Alperen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alperenocak&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
