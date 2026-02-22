@@ -92,11 +92,11 @@ Sorts a stack of integers using two stacks and a limited set of operations. Opti
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alperenocak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alperenocak&theme=tokyonight)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenocak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alperenocak&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alperenocak&theme=tokyonight&utcOffset=3)
 
 </div>
 
