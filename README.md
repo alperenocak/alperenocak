@@ -18,5 +18,3 @@ C/C++ ile sistem programlama, Unix sistemleri ve düşük seviyeli yazılım gel
 | [cub3d](https://github.com/alperenocak/cub3d) | MiniLibX kullanılarak raycasting tekniğiyle geliştirilmiş, Wolfenstein 3D'den ilham alan bir 3D render motoru. |
 | [ft_irc](https://github.com/alperenocak/ft_irc) | C++ ile geliştirilmiş, IRC protokolünü destekleyen bir sunucu uygulaması. |
 | [philosophers](https://github.com/alperenocak/philosophers) | Thread ve mutex kullanılarak yemek yiyen filozoflar problemi üzerinden eşzamanlılık (concurrency) çözümü. |
-| [so_long](https://github.com/alperenocak/so_long) | MiniLibX ile geliştirilmiş, harita parsing ve oyun döngüsü içeren basit bir 2D oyun. |
-| [push_swap](https://github.com/alperenocak/push_swap) | Sınırlı komut seti ile iki stack kullanarak tamsayı dizisini sıralayan algoritma projesi. |
