@@ -1,6 +1,5 @@
 # Yusuf Alperen Ocak
 
-42 Kocaeli
 
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Developer GIF" width="320">
