@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  C, C++, and low-level software development are at the heart of what I do.
+  C, C++ software development are at the heart of what I do.
   I like turning ideas into simple, reliable, and well-structured code.
 </p>
 
