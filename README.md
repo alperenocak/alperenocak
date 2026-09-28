@@ -29,3 +29,5 @@
 | [cub3d](https://github.com/alperenocak/cub3d) | A 3D render engine inspired by Wolfenstein 3D, built with MiniLibX using raycasting techniques. |
 | [ft_irc](https://github.com/alperenocak/ft_irc) | An IRC protocol server application developed in C++. |
 | [philosophers](https://github.com/alperenocak/philosophers) | A concurrency solution to the Dining Philosophers problem using threads and mutexes. |
+| [Inception](https://github.com/alperenocak/Inception) | Containerized infrastructure using Docker Compose, including NGINX, WordPress, and MariaDB with secure, modular service setup. |
+
