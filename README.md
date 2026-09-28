@@ -30,4 +30,5 @@
 | [ft_irc](https://github.com/alperenocak/ft_irc) | An IRC protocol server application developed in C++. |
 | [philosophers](https://github.com/alperenocak/philosophers) | A concurrency solution to the Dining Philosophers problem using threads and mutexes. |
 | [Inception](https://github.com/alperenocak/Inception) | Containerized infrastructure using Docker Compose, including NGINX, WordPress, and MariaDB with secure, modular service setup. |
+| [Cpp_Modules](https://github.com/alperenocak/Cpp_Modules) | A collection of C++ modules covering object-oriented programming, templates, inheritance, polymorphism, and modern C++ concepts. |
 
